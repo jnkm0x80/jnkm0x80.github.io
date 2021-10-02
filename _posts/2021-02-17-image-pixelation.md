@@ -5,11 +5,11 @@ title: "Image Pixelation"
 
 ## **Used Libraries**
 
-| Library | Function |
-|:---------:|----------|
-| **OpenCV**  | Image Processing |
-| **NumPy** | Average Pooling |
-| **Matplotlib** | Displaying Images |
+| Library | Function | Website |
+|:---------:|----------|---------|
+| OpenCV | Image Processing | https://opencv.org |
+| NumPy | Average Pooling | https://numpy.org |
+| Matplotlib | Displaying Images | https://matplotlib.org |
 
 ```python
 import cv2
