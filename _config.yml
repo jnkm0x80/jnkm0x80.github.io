@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Joon Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/linear-regression.png
   bio              : "Err and Err and Err but Less and Less and Less."
   location         : "Incheon, South Korea"
   email            : "jkim@ivycollegiateschool.org"
