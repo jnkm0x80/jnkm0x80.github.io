@@ -3,6 +3,8 @@ layout: single
 title: "Image Pixelation"
 ---
 
+**Code to Pixalate Images**
+
 ## Import Libraries
 
 ```python
