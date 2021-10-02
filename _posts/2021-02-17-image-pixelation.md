@@ -3,7 +3,7 @@ layout: splash
 title: "Image Pixelation"
 ---
 
-Code to Pixalate Images
+# Image Pixelation
 
 ## Import Libraries
 
