@@ -3,13 +3,7 @@ layout: single
 title: "Image Pixelation"
 ---
 
-## **Used Libraries**
-
-| Library | Function | Website |
-|:---------:|----------|---------|
-| **OpenCV** | Image Processing | https://opencv.org |
-| **NumPy** | Average Pooling | https://numpy.org |
-| **Matplotlib** | Displaying Images | https://matplotlib.org |
+## Import Libraries
 
 ```python
 import cv2
