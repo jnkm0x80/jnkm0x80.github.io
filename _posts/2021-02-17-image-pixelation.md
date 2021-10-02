@@ -1,7 +1,9 @@
 ---
-layout: single
+layout: splash
 title: "Image Pixelation"
 ---
+
+<br>
 
 # Image Pixelation
 
