@@ -24,14 +24,14 @@ img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 ## Patching Image
 
-```
+```python
 new_img = np.zeros([img.shape[0]+2, img.shape[1]+2])
 new_img[1:1+img.shape[0], 1:1+img.shape[1]] = img_gray
 ```
 
 ## Sobel Operator
 
-```
+```python
 sobel_v = np.array([[-1,  0,  1],
                     [-2,  0,  2],
                     [-1,  0,  1]])
@@ -43,7 +43,7 @@ sobel_h = np.array([[ 1,  2,  1],
 
 ## Convolutional Operation
 
-```
+```python
 def Convolution(img, filter) :
   for r in range(img.shape[0]) :
     for c in range(img.shape[1]) :
