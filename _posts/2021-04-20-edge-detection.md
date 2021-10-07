@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Electric Field"
+title: "Edge Detection"
 ---
 
 <br>
