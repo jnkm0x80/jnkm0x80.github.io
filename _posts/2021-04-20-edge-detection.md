@@ -52,9 +52,9 @@ def Convolution(img, filter) :
   return res
  ```
  
- ## Resulting Image
+## Resulting Image
  
- ```python
+```python
 res = np.zeros([img.shape[0], img.shape[1]])
 res_v = Convolution(img, sobel_v)
 res_h = Convolution(img, sobel_h)
