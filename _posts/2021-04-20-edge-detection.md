@@ -56,8 +56,8 @@ def Convolution(img, filter) :
  
  ```python
 res = np.zeros([img.shape[0], img.shape[1]])
-res_v = Conv_Layer(img, sobel_v)
-res_h = Conv_Layer(img, sobel_h)
+res_v = Convolution(img, sobel_v)
+res_h = Convolution(img, sobel_h)
 res = np.sqrt(res_v * res_h)
 ```
 
