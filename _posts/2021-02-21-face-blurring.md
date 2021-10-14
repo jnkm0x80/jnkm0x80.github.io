@@ -59,7 +59,7 @@ plt.show()
 
 Output :
 
-![[download (4).png]]
+![download (4)](https://user-images.githubusercontent.com/91777895/137302682-b4f39354-97ea-468f-99dc-1359c0f82c35.png)
 
 ## Face Detection
 
@@ -91,7 +91,7 @@ plt.show()
 
 Output :
 
-![[download (5).png]]
+![download (5)](https://user-images.githubusercontent.com/91777895/137302707-299ced36-67ba-42e3-8f2b-eac8919859cc.png)
 
 ## Blurring Faces
 
@@ -110,7 +110,7 @@ plt.imshow(face_set[0].astype('int32'))
 
 Output :
 
-![[download (6).png]]
+![download (6)](https://user-images.githubusercontent.com/91777895/137302728-49ed980e-4ccf-45d2-8504-2439aa321032.png)
 
 Now, we will load the **Average Pooling** model of Keras.
 
@@ -145,5 +145,4 @@ plt.imshow(target)
 ```
 
 Output :
-
-![[download (7).png]]
+![download (7)](https://user-images.githubusercontent.com/91777895/137302611-f703b9fc-f249-4ca4-9bd8-b308b8693e7f.png)
