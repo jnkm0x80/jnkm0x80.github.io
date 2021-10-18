@@ -40,7 +40,7 @@ However, since OpenCV loads images in BGR format, we must convert our loaded to 
 
 ```python
 target = cv2.cvtColor(target, cv2.COLOR_BGR2RGB)
-target_gray = cv2.cvtColor(target, cv2.RGB2GRAY)
+target_gray = cv2.cvtColor(target, cv2.COLOR_RGB2GRAY)
 ```
 
 Let's check if we successfully retrieved our images.
