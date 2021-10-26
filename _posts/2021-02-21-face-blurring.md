@@ -7,10 +7,6 @@ title: "Face Blurring with Deep Learning"
 
 <center><h1>Face Blurring with Deep Learning</h1></center>
 
-## Introduction
-
-Individual privacy has been a concerning issue in today's society, especially on social media platforms like YouTube or Facebook. One solution is to blur the faces of people in videos and images. It made me think of the way to classify human faces in an image and blur them automatically.
-
 ## Libraries Used
 
 |    Library     | URL                        |
